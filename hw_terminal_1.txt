@@ -8,7 +8,7 @@ Linux terminal (GitBash) commands
 7) Создать 3 папки	mkdir f_4 f_5 f_6
 8. Вывести список содержимого папки	ls -la or ls -l
 9) + Открыть любой txt файл	vim test_1.txt
-10) + написать туда что-нибудь, любой текст.	I
+10) + написать туда что-нибудь, любой текст.	I + "любой_текст"
 11) + сохранить и выйти.	esc + :wq
 12) Выйти из папки на уровень выше	cd ..
 13) переместить любые 2 файла, которые вы создали, в любую другую папку.	mv ~/Desktop/QA/Ksendzov/Terminal/HW_terminal_1/f_1/j_test2.json ~/Desktop/QA/Ksendzov/Terminal/HW_terminal_1/f_1/test_2.txt ~/Desktop/QA/Ksendzov/Terminal/HW_terminal_1/f_2
@@ -21,7 +21,7 @@ Linux terminal (GitBash) commands
 20) вывести дату и время	date
 =========
 Задание *
-"1) Отправить http запрос на сервер.
+1) Отправить http запрос на сервер.
 http://162.55.220.72:5005/terminal-hw-request"	curl http://162.55.220.72:5005/terminal-hw-request
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13	./skript_1.sh
 
